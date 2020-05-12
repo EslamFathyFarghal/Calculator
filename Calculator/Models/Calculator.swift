@@ -47,7 +47,7 @@ struct Calculator {
                     return n1 - n2
                 case "+":
                     return n1 + n2
-                case "/":
+                case "÷":
                     return n1 / n2
                 case "×":
                     return n1 * n2
